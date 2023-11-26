@@ -10,7 +10,7 @@
 
 
 ## A brief block diagram of the solution is presented in the image
-<image src="./Scheme.jpg" alt="The scheme of the algorithm">
+<image src="./Scheme.JPG" alt="The scheme of the algorithm">
 
 
 
