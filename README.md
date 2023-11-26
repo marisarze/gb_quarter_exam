@@ -12,5 +12,8 @@
 ## A brief block diagram of the solution is presented in the image
 <image src="./Scheme.JPG" alt="The scheme of the algorithm">
 
+## To run this program you need to do:
 
-
+~~~git clone https://github.com/marisarze/gb_quarter_exam.git
+cd gb_quarter_exam
+dotnet run console~~~

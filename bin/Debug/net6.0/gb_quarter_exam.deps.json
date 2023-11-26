@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gb_quarter_exam/1.0.0": {
+        "runtime": {
+          "gb_quarter_exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gb_quarter_exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

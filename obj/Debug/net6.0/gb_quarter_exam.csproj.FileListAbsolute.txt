@@ -1,0 +1,15 @@
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.csproj.AssemblyReference.cache
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.AssemblyInfoInputs.cache
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.AssemblyInfo.cs
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.csproj.CoreCompileInputs.cache
+C:\Users\marisarze\gb_quarter_exam\bin\Debug\net6.0\gb_quarter_exam.exe
+C:\Users\marisarze\gb_quarter_exam\bin\Debug\net6.0\gb_quarter_exam.deps.json
+C:\Users\marisarze\gb_quarter_exam\bin\Debug\net6.0\gb_quarter_exam.runtimeconfig.json
+C:\Users\marisarze\gb_quarter_exam\bin\Debug\net6.0\gb_quarter_exam.dll
+C:\Users\marisarze\gb_quarter_exam\bin\Debug\net6.0\gb_quarter_exam.pdb
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.dll
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\refint\gb_quarter_exam.dll
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.pdb
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\gb_quarter_exam.genruntimeconfig.cache
+C:\Users\marisarze\gb_quarter_exam\obj\Debug\net6.0\ref\gb_quarter_exam.dll
