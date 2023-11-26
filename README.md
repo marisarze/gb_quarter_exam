@@ -14,6 +14,7 @@
 
 ## To run this program you need to do:
 
-~~~git clone https://github.com/marisarze/gb_quarter_exam.git
+~~~
+git clone https://github.com/marisarze/gb_quarter_exam.git
 cd gb_quarter_exam
 dotnet run console~~~
